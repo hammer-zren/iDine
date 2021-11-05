@@ -41,6 +41,7 @@ struct ItemDetail: View {
     }
 }
 
+#if DEBUG
 struct ItemDetail_Previews: PreviewProvider {
     static var previews: some View {
         NavigationView {
@@ -49,3 +50,4 @@ struct ItemDetail_Previews: PreviewProvider {
         }
     }
 }
+#endif

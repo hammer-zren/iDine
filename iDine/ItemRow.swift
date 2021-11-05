@@ -46,8 +46,10 @@ struct ItemRow: View {
     }
 }
 
+#if DEBUG
 struct ItemRow_Previews: PreviewProvider {
     static var previews: some View {
         ItemRow(item: MenuItem.example)
     }
 }
+#endif
