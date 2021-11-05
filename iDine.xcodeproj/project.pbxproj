@@ -15,6 +15,7 @@
 		A5E9633D2734AD30009A3BF3 /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5E9633A2734AD30009A3BF3 /* Helper.swift */; };
 		A5E9633E2734AD30009A3BF3 /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5E9633B2734AD30009A3BF3 /* Order.swift */; };
 		A5E963402734AD55009A3BF3 /* menu.json in Resources */ = {isa = PBXBuildFile; fileRef = A5E9633F2734AD55009A3BF3 /* menu.json */; };
+		A5E963422734B351009A3BF3 /* ItemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5E963412734B351009A3BF3 /* ItemRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		A5E9633A2734AD30009A3BF3 /* Helper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
 		A5E9633B2734AD30009A3BF3 /* Order.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
 		A5E9633F2734AD55009A3BF3 /* menu.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = menu.json; sourceTree = "<group>"; };
+		A5E963412734B351009A3BF3 /* ItemRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				A5E9633F2734AD55009A3BF3 /* menu.json */,
 				A5E9632F2734AAB6009A3BF3 /* Assets.xcassets */,
 				A5E963312734AAB6009A3BF3 /* Preview Content */,
+				A5E963412734B351009A3BF3 /* ItemRow.swift */,
 			);
 			path = iDine;
 			sourceTree = "<group>";
@@ -153,6 +156,7 @@
 				A5E9633C2734AD30009A3BF3 /* Menu.swift in Sources */,
 				A5E9632E2734AAB3009A3BF3 /* ContentView.swift in Sources */,
 				A5E9633E2734AD30009A3BF3 /* Order.swift in Sources */,
+				A5E963422734B351009A3BF3 /* ItemRow.swift in Sources */,
 				A5E9632C2734AAB3009A3BF3 /* iDineApp.swift in Sources */,
 				A5E9633D2734AD30009A3BF3 /* Helper.swift in Sources */,
 			);
